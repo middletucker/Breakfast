@@ -1,0 +1,16 @@
+Plain Egg Sandwhich
+4.45
+Bacon and Egg Breakfast Burrito
+5.45
+Muffin
+3.99
+French Toast Sticks 
+3.99
+Fruit Cup
+2.49
+Cereal
+2.69
+Coffee
+2.50
+Tea
+2.75
